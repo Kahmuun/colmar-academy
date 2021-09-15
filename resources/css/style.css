@@ -1,0 +1,40 @@
+header {
+    padding: 16px 24px;
+    display: block;
+    max-height: 64px;
+}
+
+.logo {
+    float: left;
+    line-height: 32px;
+}
+
+header .name {
+    float: left;
+    line-height: 32px;
+}
+
+header a {
+    float:right;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    line-height: 32px;
+
+}
+
+banner{
+    background-color: grey;
+    display: inline-block;
+}
+
+.bannerimg {
+    float: left;
+    size: 60%;
+}
+
+container {
+    box-sizing: border-box;
+    display: inline-block;
+    padding: 32px 24px;
+}
